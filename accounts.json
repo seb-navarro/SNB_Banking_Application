@@ -1,0 +1,182 @@
+[
+    {
+        "number": 28085115,
+        "c_name": "customer_one",
+        "c_pass": "1",
+        "pounds_balance": 19300,
+        "pence_balance": 97,
+        "category": "Current",
+        "foreign_exchange_fee": 0
+    },
+    {
+        "number": 10567989,
+        "c_name": "customer_one",
+        "c_pass": "1",
+        "pounds_balance": 0,
+        "pence_balance": 0,
+        "category": "Savings",
+        "interest_rate": 5
+    },
+    {
+        "number": 60081459,
+        "c_name": "customer_one",
+        "c_pass": "1",
+        "pounds_balance": 700,
+        "pence_balance": 0,
+        "category": "Current",
+        "foreign_exchange_fee": 3
+    },
+    {
+        "number": 79911615,
+        "c_name": "customer_one",
+        "c_pass": "1",
+        "pounds_balance": 0,
+        "pence_balance": 0,
+        "category": "Savings",
+        "interest_rate": 4
+    },
+    {
+        "number": 10592340,
+        "c_name": "customer_one",
+        "c_pass": "1",
+        "pounds_balance": 104300,
+        "pence_balance": 0,
+        "category": "Mortgage",
+        "monthly_repayment_pounds": 700,
+        "monthly_repayment_pence": 0,
+        "months_remaining": 149,
+        "flagged_for_missed_payment": false
+    },
+    {
+        "number": 14000962,
+        "c_name": "customer_one",
+        "c_pass": "1",
+        "pounds_balance": 262600,
+        "pence_balance": 0,
+        "category": "Mortgage",
+        "monthly_repayment_pounds": 1313,
+        "monthly_repayment_pence": 0,
+        "months_remaining": 200,
+        "flagged_for_missed_payment": false
+    },
+    {
+        "number": 66861246,
+        "c_name": "customer_two",
+        "c_pass": "2",
+        "pounds_balance": 39567,
+        "pence_balance": 0,
+        "category": "Current",
+        "foreign_exchange_fee": 3
+    },
+    {
+        "number": 38435805,
+        "c_name": "customer_two",
+        "c_pass": "2",
+        "pounds_balance": 0,
+        "pence_balance": 0,
+        "category": "Current",
+        "foreign_exchange_fee": 3
+    },
+    {
+        "number": 91232852,
+        "c_name": "customer_two",
+        "c_pass": "2",
+        "pounds_balance": 80000,
+        "pence_balance": 0,
+        "category": "Savings",
+        "interest_rate": 4
+    },
+    {
+        "number": 37124443,
+        "c_name": "customer_two",
+        "c_pass": "2",
+        "pounds_balance": 0,
+        "pence_balance": 0,
+        "category": "Savings",
+        "interest_rate": 4
+    },
+    {
+        "number": 61705128,
+        "c_name": "customer_two",
+        "c_pass": "2",
+        "pounds_balance": 10512,
+        "pence_balance": 0,
+        "category": "Mortgage",
+        "monthly_repayment_pounds": 876,
+        "monthly_repayment_pence": 0,
+        "months_remaining": 12,
+        "flagged_for_missed_payment": true
+    },
+    {
+        "number": 43191483,
+        "c_name": "customer_two",
+        "c_pass": "2",
+        "pounds_balance": 51684,
+        "pence_balance": 0,
+        "category": "Mortgage",
+        "monthly_repayment_pounds": 438,
+        "monthly_repayment_pence": 0,
+        "months_remaining": 118,
+        "flagged_for_missed_payment": false
+    },
+    {
+        "number": 91191728,
+        "c_name": "customer_three",
+        "c_pass": "3",
+        "pounds_balance": 38812,
+        "pence_balance": 25,
+        "category": "Current",
+        "foreign_exchange_fee": 3
+    },
+    {
+        "number": 22059207,
+        "c_name": "customer_three",
+        "c_pass": "3",
+        "pounds_balance": 0,
+        "pence_balance": 0,
+        "category": "Current",
+        "foreign_exchange_fee": 3
+    },
+    {
+        "number": 33680478,
+        "c_name": "customer_three",
+        "c_pass": "3",
+        "pounds_balance": 43499,
+        "pence_balance": 77,
+        "category": "Savings",
+        "interest_rate": 4
+    },
+    {
+        "number": 82486378,
+        "c_name": "customer_three",
+        "c_pass": "3",
+        "pounds_balance": 19856,
+        "pence_balance": 0,
+        "category": "Mortgage",
+        "monthly_repayment_pounds": 584,
+        "monthly_repayment_pence": 0,
+        "months_remaining": 34,
+        "flagged_for_missed_payment": false
+    },
+    {
+        "number": 47572944,
+        "c_name": "customer_three",
+        "c_pass": "3",
+        "pounds_balance": 21050,
+        "pence_balance": 0,
+        "category": "Mortgage",
+        "monthly_repayment_pounds": 421,
+        "monthly_repayment_pence": 0,
+        "months_remaining": 50,
+        "flagged_for_missed_payment": false
+    },
+    {
+        "number": 50401553,
+        "c_name": "customer_three",
+        "c_pass": "3",
+        "pounds_balance": 2001,
+        "pence_balance": 31,
+        "category": "Savings",
+        "interest_rate": 7
+    }
+]
